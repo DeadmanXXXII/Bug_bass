@@ -91,12 +91,12 @@ if __name__ == "__main__":
 #### Images and Script Evidence
 
 1. **Evidence of Attack Execution:**
-   ![PXL_20240909_095222744.jpg](https://github.com/DeadmanXXXII/Do_you_like_bass/main/PXL_20240909_095222744.jpg)
+   ![PXL_20240909_095222744.jpg](https://github.com/DeadmanXXXII/Do_you_like_bass/blob/PXL_20240909_095222744.jpg)
    
    This image shows the browser displaying an HTTP 429 error (`Too Many Requests`) during the attack.
 
 2. **Script Execution Output:**
-   ![Screenshot_20240909-105211.png](https://github.com/DeadmanXXXII/Do_you_like_bass/main/Screenshot_20240909-105211.png)
+   ![Screenshot_20240909-105211.png](https://github.com/DeadmanXXXII/Do_you_like_bass/blob/Screenshot_20240909-105211.png)
    
    This screenshot captures the script's execution on a mobile device, showing numerous GET requests sent to `https://bugbase.ai` and corresponding status codes.
 
