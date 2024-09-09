@@ -91,7 +91,7 @@ if __name__ == "__main__":
 #### Images and Script Evidence
 
 1. **Evidence of Attack Execution:**
-   ![computer check](https://raw.githubusercontent.com/DeadmanXXXII/Do_you_like_bass/blob/PXL_20240909_095222744.jpg)
+   ![computer check](https://raw.githubusercontent.com/DeadmanXXXII/Do_you_like_bass/main/PXL_20240909_095222744.jpg)
    
    This image shows the browser displaying an HTTP 429 error (`Too Many Requests`) during the attack.
 
